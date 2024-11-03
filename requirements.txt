@@ -1,0 +1,17 @@
+#devops
+black
+pytest
+pytest-cov
+pylint
+nbval
+nbqa
+tabulate
+
+#rust based linter
+ruff
+
+#data science
+pandas
+
+#data visualization
+matplotlib
