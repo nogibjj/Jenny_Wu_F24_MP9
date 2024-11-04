@@ -14,4 +14,10 @@ jobs:
         make install
     - name: Format code with Python Black
       run: |
-        make format
+        make format    
+    - name: Lint with Python
+      run: |
+        make lint
+    - name: Test with Python
+      run: |
+        make test

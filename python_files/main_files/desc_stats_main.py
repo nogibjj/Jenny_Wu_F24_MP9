@@ -1,6 +1,6 @@
 """MAIN FILE"""
 
-import lib
+import congressional_age as lib
 
 
 def main():
