@@ -1,4 +1,6 @@
 # Jenny_Wu_F24_MP9
+[![CICD](https://github.com/nogibjj/Jenny_Wu_F24_MP9/actions/workflows/CICD.yml/badge.svg)](https://github.com/nogibjj/Jenny_Wu_F24_MP9/actions/workflows/CICD.yml)
+
 F24 Mini Project 9: Create a Cloud-Based Notebook 
 Link to Google Collab Notebook: https://colab.research.google.com/drive/1mMxeivIyYwOAjxei6q3PW0ouznhtrHMW?usp=sharing
 
